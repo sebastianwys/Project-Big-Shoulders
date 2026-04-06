@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "acs_5yr_2015.csv",
+    "year": 2015,
+    "sha256": "cf0c2b46e3276db64314c02380f5bb2df39ffa42f4d8596f738d83345f9d95c3",
+    "size_kb": 79.2,
+    "rows": 929,
+    "downloaded": "2026-04-05T23:17:17.422089"
+  },
+  {
+    "filename": "acs_5yr_2019.csv",
+    "year": 2019,
+    "sha256": "c0310157634ee2e38dac19a564e645b0d5e546c88f5060ba92b5b05f73e098c8",
+    "size_kb": 80.1,
+    "rows": 938,
+    "downloaded": "2026-04-05T23:17:18.576085"
+  },
+  {
+    "filename": "acs_5yr_2022.csv",
+    "year": 2022,
+    "sha256": "8a675477ff9573e51ea5478f78c9e8beec983fb0960a3e097740e10bf435e37a",
+    "size_kb": 80.4,
+    "rows": 939,
+    "downloaded": "2026-04-05T23:17:19.695934"
+  }
+]
